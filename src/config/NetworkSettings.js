@@ -1,1 +1,1 @@
-export const ROOT_URL = 'http://18.144.57.118';
+export const ROOT_URL = 'http://localhost:5000';
