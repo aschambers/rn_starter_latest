@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "rn59.app"
-               BlueprintName = "rn59"
-               ReferencedContainer = "container:rn59.xcodeproj">
+               BuildableName = "rssfeedreader.app"
+               BlueprintName = "rssfeedreader"
+               ReferencedContainer = "container:rssfeedreader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "rn59Tests.xctest"
-               BlueprintName = "rn59Tests"
-               ReferencedContainer = "container:rn59.xcodeproj">
+               BuildableName = "rssfeedreaderTests.xctest"
+               BlueprintName = "rssfeedreaderTests"
+               ReferencedContainer = "container:rssfeedreader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "rn59Tests.xctest"
-               BlueprintName = "rn59Tests"
-               ReferencedContainer = "container:rn59.xcodeproj">
+               BuildableName = "rssfeedreaderTests.xctest"
+               BlueprintName = "rssfeedreaderTests"
+               ReferencedContainer = "container:rssfeedreader.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "rn59.app"
-            BlueprintName = "rn59"
-            ReferencedContainer = "container:rn59.xcodeproj">
+            BuildableName = "rssfeedreader.app"
+            BlueprintName = "rssfeedreader"
+            ReferencedContainer = "container:rssfeedreader.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "rn59.app"
-            BlueprintName = "rn59"
-            ReferencedContainer = "container:rn59.xcodeproj">
+            BuildableName = "rssfeedreader.app"
+            BlueprintName = "rssfeedreader"
+            ReferencedContainer = "container:rssfeedreader.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "rn59.app"
-            BlueprintName = "rn59"
-            ReferencedContainer = "container:rn59.xcodeproj">
+            BuildableName = "rssfeedreader.app"
+            BlueprintName = "rssfeedreader"
+            ReferencedContainer = "container:rssfeedreader.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

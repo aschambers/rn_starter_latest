@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "rn59-tvOS.app"
-               BlueprintName = "rn59-tvOS"
-               ReferencedContainer = "container:rn59.xcodeproj">
+               BuildableName = "rssfeedreader-tvOS.app"
+               BlueprintName = "rssfeedreader-tvOS"
+               ReferencedContainer = "container:rssfeedreader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "rn59-tvOSTests.xctest"
-               BlueprintName = "rn59-tvOSTests"
-               ReferencedContainer = "container:rn59.xcodeproj">
+               BuildableName = "rssfeedreader-tvOSTests.xctest"
+               BlueprintName = "rssfeedreader-tvOSTests"
+               ReferencedContainer = "container:rssfeedreader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "rn59-tvOSTests.xctest"
-               BlueprintName = "rn59-tvOSTests"
-               ReferencedContainer = "container:rn59.xcodeproj">
+               BuildableName = "rssfeedreader-tvOSTests.xctest"
+               BlueprintName = "rssfeedreader-tvOSTests"
+               ReferencedContainer = "container:rssfeedreader.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rn59-tvOS.app"
-            BlueprintName = "rn59-tvOS"
-            ReferencedContainer = "container:rn59.xcodeproj">
+            BuildableName = "rssfeedreader-tvOS.app"
+            BlueprintName = "rssfeedreader-tvOS"
+            ReferencedContainer = "container:rssfeedreader.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rn59-tvOS.app"
-            BlueprintName = "rn59-tvOS"
-            ReferencedContainer = "container:rn59.xcodeproj">
+            BuildableName = "rssfeedreader-tvOS.app"
+            BlueprintName = "rssfeedreader-tvOS"
+            ReferencedContainer = "container:rssfeedreader.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rn59-tvOS.app"
-            BlueprintName = "rn59-tvOS"
-            ReferencedContainer = "container:rn59.xcodeproj">
+            BuildableName = "rssfeedreader-tvOS.app"
+            BlueprintName = "rssfeedreader-tvOS"
+            ReferencedContainer = "container:rssfeedreader.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
